@@ -1,0 +1,28 @@
+Order ID : 1
+F4,Salmon Grill,3
+F6,Daging Salai,1
+F3,Chicken Chop,2
+B6,Orange Juice,4
+B1,Latte,1
+B4,Vanilla Shake,1
+D3,Vanilla Ice Cream,3
+
+Order ID : 2
+F2,Dakgalbi,2
+B4,Vanilla Shake,2
+D3,Vanilla Ice Cream,1
+D4,Chocolate Ice Cream,1
+
+Order ID : 3
+F3,Chicken Chop,2
+B5,Mango Juice,2
+D3,Vanilla Ice Cream,1
+D6,Mixed Berries,1
+
+Order ID : 4
+F3,Chicken Chop,2
+B3,Oreo Shake,2
+D4,Chocolate Ice Cream,1
+Order ID : 1
+F3,Chicken Chop,2
+B3,Oreo Shake,2

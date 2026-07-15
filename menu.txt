@@ -1,0 +1,21 @@
+F1, Bulgogi Rice,23.90,Korean
+F2, Dakgalbi,21.90,Korean
+F3, Chicken Chop,22.00,Western
+F4, Salmon Grill,29.90,Western
+F5, Nasi Kerabu,18.60,Malay
+F6, Daging Salai,18.90,Malay
+
+D1, Cheesecake,12.00,Cake
+D2, Red Velvet,15.30,Cake
+D3, Vanilla Ice Cream,7.10,Ice Cream
+D4, Chocolate Ice Cream,7.50,Ice Cream
+D5, Fruit Salad,6.70,Fruit
+D6, Mixed Berries,10.90,Fruit
+
+B1, Latte,10.70,Coffee
+B2, Americano,7.50,Coffee
+B3, Oreo Shake,13.20,Milkshake
+B4, Vanilla Shake,11.40,Milkshake
+B5, Mango Juice,9.30,Fruit
+B6, Orange Juice,8.20,Fruit
+

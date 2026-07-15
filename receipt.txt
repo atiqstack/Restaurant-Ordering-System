@@ -1,0 +1,65 @@
+Receipt #1
+Customer : Maihaireen
+Payment : EWallet
+Salmon Grill x 3
+Daging Salai x 1
+Chicken Chop x 2
+Orange Juice x 4
+Latte x 1
+Vanilla Shake x 1
+Vanilla Ice Cream x 3
+Subtotal : RM228.80
+Discount : RM38.90
+Tax      : RM11.39
+Total    : RM201.30
+--------------------------------
+
+Receipt #2
+Customer : Imman
+Payment : Cash
+Dakgalbi x 2
+Vanilla Shake x 2
+Vanilla Ice Cream x 1
+Chocolate Ice Cream x 1
+Subtotal : RM81.20
+Discount : RM12.18
+Tax      : RM4.14
+Total    : RM73.16
+--------------------------------
+
+Receipt #3
+Customer : Sarah
+Payment : Cash
+Chicken Chop x 2
+Mango Juice x 2
+Vanilla Ice Cream x 1
+Mixed Berries x 1
+Subtotal : RM80.60
+Discount : RM16.12
+Tax      : RM3.87
+Total    : RM68.35
+--------------------------------
+
+Receipt #4
+Customer : Siti
+Payment : Cash
+Chicken Chop x 2
+Oreo Shake x 2
+Chocolate Ice Cream x 1
+Subtotal : RM77.90
+Discount : RM7.79
+Tax      : RM4.21
+Total    : RM74.32
+--------------------------------
+
+Receipt #1
+Customer : Atiqah
+Payment : EWallet
+Chicken Chop x 2
+Oreo Shake x 2
+Subtotal : RM70.40
+Discount : RM0.00
+Tax      : RM4.22
+Total    : RM74.62
+--------------------------------
+
